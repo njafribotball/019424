@@ -5,5 +5,5 @@ These snippets are pieces of code that we have saved for use in different situta
 ### Rehan's Snippets
 Placed in `./rehan/`
 
-* Block Stacking (stacking.c)
-* Maze (maze.c)
+* Block Stacking (`stacking.c`)
+* Maze (`maze.c`)
