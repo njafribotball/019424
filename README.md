@@ -2,18 +2,14 @@
 The following is the middle school botball team from 2023 to 2024.
 
 ### Programmers
-- Rehan
-- Shweta
+- Rehan (lead programmer)
+- Shweta (documentation)
 - Raj
 - Jeremiah
 - Also Arshi
 
 ### Builders
-- Joy
-- Raj
+- Joy (lead builder)
 - Diya
 - Arshi
 - Anna
-- Jaxon
-
-There's obviously more people but I have no time...
